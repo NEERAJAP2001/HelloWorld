@@ -1,3 +1,3 @@
-program hello
+program HelloWorld
           print *, "Hello World"
        end program
