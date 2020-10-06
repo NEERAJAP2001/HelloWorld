@@ -1,5 +1,7 @@
 # HelloWorld
 
+<p align="center"><img src="https://miro.medium.com/max/1024/1*OohqW5DGh9CQS4hLY5FXzA.png"</p>
+
 # Hello !! Folks, THIS repo is part of Hacktoberfest : 🎁
 
 ## 1.Star the repo
