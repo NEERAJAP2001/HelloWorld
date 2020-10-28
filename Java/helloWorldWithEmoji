@@ -1,0 +1,8 @@
+public class helloWorldWithEmoji {
+
+
+    public static void main(String[] args) {
+System.out.println("Hello World! "+"\uD83C\uDF0F");
+    }
+    
+}
